@@ -1,4 +1,4 @@
-# plastic-object-detector
+# Plastic-Object-Detector
 A YOLOv5 object detector with over 85% accuracy in detecting plastic items.
 
 In order to use the trained weights to detect, do the following (in cmd):

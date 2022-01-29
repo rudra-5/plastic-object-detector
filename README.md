@@ -12,8 +12,8 @@ python detect.py --weights weights/plastic_best_1.pt --img 416 --conf 0.4 --sour
 You can also use plastic_best_2.pt instead of plastic_best_1.pt, their accuracy is almost the same.
 
 The detector detects 5 classes:
-> Plastic bottles
-> Plastic bag
-> Plastic plates
-> Plastic Containers
-> Plastic cup
+> Plastic bottles \
+> Plastic bag \
+> Plastic plates \
+> Plastic Containers \
+> Plastic cup \

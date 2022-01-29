@@ -16,4 +16,4 @@ The detector detects 5 classes:
 > Plastic bag \
 > Plastic plates \
 > Plastic Containers \
-> Plastic cup \
+> Plastic cup 
